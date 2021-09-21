@@ -1,2 +1,3 @@
-# Cieloj-Server-Admin
-Server management panel for webhosting
+# Ĉieloj Server Admin
+
+Placeholder for a future webhosting server management panel. 
